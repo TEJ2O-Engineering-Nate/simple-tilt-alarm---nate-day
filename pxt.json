@@ -1,5 +1,5 @@
 {
-    "name": "simple tilt alarm - Nate Day",
+    "name": "simple tilt alarm",
     "description": "",
     "dependencies": {
         "core": "*",
